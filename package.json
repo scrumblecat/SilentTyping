@@ -1,0 +1,16 @@
+{
+  "name": "silent-typing-unbound",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "react": "^19.2.0",
+    "react-native": "^0.86.0",
+    "rollup": "^4.67.5",
+    "typescript": "^7.0.2"
+  }
+}

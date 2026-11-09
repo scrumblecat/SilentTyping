@@ -1,0 +1,16 @@
+{
+  "ENABLED": "Silent Typing",
+  "ENABLED_DETAIL": "Hide when you start typing in Discord.",
+  "EXCEPTIONS": "Always show typing in",
+  "EXCEPTIONS_DETAIL": "Enter a comma-separated list of channel IDs.",
+  "SHOW_ICON": "Show composer button",
+  "SHOW_ICON_DETAIL": "Add a Silent Typing toggle next to the chat composer controls on iOS.",
+  "SHOW_MENU": "Show channel menu toggle",
+  "SHOW_MENU_DETAIL": "Add a Silent Typing toggle to the channel’s long-press menu.",
+  "COMMAND_DETAIL": "Toggle whether others can see that you are typing.",
+  "COMMAND_VALUE": "True hides your typing. False shows it. Leave blank to toggle.",
+  "TURN_ON": "Enable Silent Typing",
+  "TURN_OFF": "Disable Silent Typing",
+  "TURNED_ON": "Silent typing enabled!",
+  "TURNED_OFF": "Silent typing disabled!"
+}

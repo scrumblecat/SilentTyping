@@ -1,0 +1,18 @@
+{
+	"id": "community.silent-typing",
+	"name": "Silent Typing",
+	"description": "Hide your outgoing typing indicator, with optional channel exceptions and quick toggles.",
+	"authors": [
+		{
+			"name": "Silent Typing contributors",
+			"id": "0"
+		}
+	],
+	"version": "1.0.0",
+	"type": "plugin",
+	"platforms": {
+		"ios": {}
+	},
+	"icon": "ChatDotsIcon",
+	"main": "index.js"
+}
